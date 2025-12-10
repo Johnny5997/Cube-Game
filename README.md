@@ -1,6 +1,5 @@
 # Cube-Game
 Woah! It's the Cube Game Source! Please credit if you use :)
+This game is currently available for Windows and macOS only. Linux support is unknown at this time.
 
-ChatGPT helped us with coding errors.
-
-Secret don't tell johnny I was here
+ChatGPT and Claude used to fix some coding errors.
